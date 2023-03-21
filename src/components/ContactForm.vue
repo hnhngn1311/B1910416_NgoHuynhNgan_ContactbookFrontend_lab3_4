@@ -52,7 +52,7 @@
       </label>
     </div>
     <div class="form-group">
-      <button class="btn btn-primary">Lưu</button>
+      <button class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Lưu</button>
       <button
         v-if="contactLocal._id"
         type="button"
